@@ -223,7 +223,7 @@ h6,
 
 /*** Facts ***/
 .facts {
-    background: linear-gradient(rgba(115, 10, 10, 0.359), rgba(115, 10, 10, 0.359)), url(../img/bg.png);
+    /* background: linear-gradient(rgba(115, 10, 10, 0.359), rgba(115, 10, 10, 0.359)), url(../img/bg.png); */
 }
 
 
@@ -239,7 +239,9 @@ h6,
     height: 50%;
     top: 0;
     left: 0;
-    background: linear-gradient(rgba(115, 10, 10, 0.359), rgba(115, 10, 10, 0.359)), url(../img/bg.png);
+    background: linear-gradient(rgba(16, 0, 0, 0.657), rgba(115, 10, 10, 0.359));
+    /* background: gray; */
+    /* linear-gradient(rgba(115, 10, 10, 0.359), rgba(115, 10, 10, 0.359)), url(../img/bg.png); */
     z-index: -1;
 }
 
