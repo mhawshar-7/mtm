@@ -1,0 +1,25 @@
+{
+  "name": "mtm",
+  "version": "1.0.0",
+  "description": "mtm websolutions",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass scss:css"
+  },
+  "keywords": [
+    "mtm",
+    "websolutions",
+    "portfolio"
+  ],
+  "author": "Mohamad said",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "autoprefixer": "^10.4.16",
+    "bootstrap": "^5.3.2",
+    "postcss-cli": "^11.0.0"
+  }
+}
